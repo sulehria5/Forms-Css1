@@ -1,0 +1,35 @@
+
+button{
+    background-color: lightgreen;
+    color: #fff;
+}
+button:hover{
+    color: black
+}
+input[type="email"]{
+    width: 18vw;
+}
+input[type="Thema"]{
+    width: 18vw;
+    
+}
+input[type="Nachricht"]{
+    width: 18vw;
+    height: 30vh;
+}
+button:hover{
+    color: #fff;
+    background-color: rgb(10, 12, 16) ;
+}
+button{
+    background-color: rgb(4, 155, 72);
+    width: 18.6vw;
+}
+form{
+
+    width: 30vw;
+}
+span{
+    color:red;
+
+}
